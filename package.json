@@ -1,0 +1,24 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Lab 3 Assignment",
+  "main": "index.js",
+  "scripts": {
+		"start": "node server.js",
+    "test": "node -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chushaa/lab3.git"
+  },
+  "keywords": [
+    "Learning",
+    "NodeJS"
+  ],
+  "author": "Shaum Chughtai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chushaa/lab3/issues"
+  },
+  "homepage": "https://github.com/chushaa/lab3#readme"
+}
